@@ -3,11 +3,16 @@
 
 OOP is an object-oriented programming technique. In this programming approach, everything revolves around objects. OOP primarily focuses on three main concepts: Encapsulation, Inheritance, and Polymorphism. Additionally, we can also include Abstraction. Each subheading below is explained with Object-Oriented Programming (OOP) code examples.
 
-  
 ## Object Oriented Programming (OOP) Steps
 
 ![Uygulama Ekran Görüntüsü](https://lh6.googleusercontent.com/yPsibbUh1aHOvi0U3-wtdlNpWWutbyYULv1PLkx0QlOOq81DiXVvPgvKVrtY7Ef1yZF5NLabXrHBjHL80lx9hTqR_64jGRFZdbR9FIs4LDR9RcEn1M9LX_D5i4fYKR4vNZA-dZ9R)
 
+  
+## Presentation
+For the presentation click the
+[LINK](https://prezi.com/view/hZ0fTmvM2dweP0kWahM7/)
+
+  
 ## Run the Project on your own
 
 Clone the project
@@ -23,6 +28,7 @@ Go to the project file
 ```
 In this project DataClasses are used, so you should use pyhton3.8+.
 
+  
 ## Examples of object oriented programming (OOP)
 You can review the 1)object_Class.py code for more details on the topic.
 ```python
